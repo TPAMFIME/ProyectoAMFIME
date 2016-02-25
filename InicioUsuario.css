@@ -1,0 +1,15 @@
+table {
+	font-size: 20px;
+	margin-top: 20px;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+body { 
+	background: url(FondoInicioUsuario.jpg.) no-repeat fixed center; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	color: white;
+}
